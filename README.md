@@ -1,7 +1,11 @@
+<!-- Background Image -->
+<div align="center">
+    <img src="https://example.com/your-background-image.jpg" alt="Background" width="100%" style="opacity: 0.1; position: absolute; z-index: -1;">
+</div>
 # **Welcome to my Github!** 👋
 
 ## About Me
-Hi, I'm Pravesh im currently studying the Python Software Engineering course through HyperionDev. I'm passionate about programming, problem-solving, and constantly learning to become a better software engineer, i’m excited to share my progress with you. Feel free to check out my repositories, contributions, and projects as I grow through this learning experience.\
+Hi, I'm Pravesh im currently studying the Python Software Engineering course through HyperionDev. I'm passionate about programming, problem-solving, and constantly learning to become a better software engineer, i’m excited to share my progress with you. Feel free to check out my repositories, contributions, and projects as I grow through this learning experience.
 
 ## My Projects 
 
