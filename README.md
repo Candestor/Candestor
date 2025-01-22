@@ -1,7 +1,10 @@
 # **Welcome to my Github!** 👋
 
 ## About Me
-Hi, I'm Pravesh im currently studying the Python Software Engineering course through HyperionDev. 
+Hi, I'm Pravesh im currently studying the Python Software Engineering course through HyperionDev. I'm passionate about programming, problem-solving, and constantly learning to become a better software engineer, i’m excited to share my progress with you. Feel free to check out my repositories, contributions, and projects as I grow through this learning experience.\
+
+## My Projects 
+
 
 
 
