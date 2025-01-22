@@ -1,4 +1,9 @@
-## Hi there 👋
+# ## Welcome to my Github! ## 👋
+
+## About Me
+Hi, I'm Pravesh im currently studying the Python Software Engineering course through HyperionDev. 
+
+
 
 <!--
 **Candestor/Candestor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
